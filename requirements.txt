@@ -4,3 +4,6 @@ google-api-python-client==2.84.0
 google-cloud-bigquery==3.10.0
 google-cloud-storage==2.8.0
 tqdm==4.65.0
+toml~=0.10.2
+pendulum~=3.0.0
+protobuf~=4.25.5
